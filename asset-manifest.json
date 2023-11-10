@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/theta-debugger/static/css/main.4442dbd2.chunk.css",
+    "main.js": "/theta-debugger/static/js/main.22c52488.chunk.js",
+    "main.js.map": "/theta-debugger/static/js/main.22c52488.chunk.js.map",
+    "runtime-main.js": "/theta-debugger/static/js/runtime-main.3b05f81e.js",
+    "runtime-main.js.map": "/theta-debugger/static/js/runtime-main.3b05f81e.js.map",
+    "static/js/2.e2062446.chunk.js": "/theta-debugger/static/js/2.e2062446.chunk.js",
+    "static/js/2.e2062446.chunk.js.map": "/theta-debugger/static/js/2.e2062446.chunk.js.map",
+    "index.html": "/theta-debugger/index.html",
+    "precache-manifest.73eb57378e0e00f4732cb40b9fd2baa1.js": "/theta-debugger/precache-manifest.73eb57378e0e00f4732cb40b9fd2baa1.js",
+    "service-worker.js": "/theta-debugger/service-worker.js",
+    "static/css/main.4442dbd2.chunk.css.map": "/theta-debugger/static/css/main.4442dbd2.chunk.css.map",
+    "static/js/2.e2062446.chunk.js.LICENSE.txt": "/theta-debugger/static/js/2.e2062446.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b05f81e.js",
+    "static/js/2.e2062446.chunk.js",
+    "static/css/main.4442dbd2.chunk.css",
+    "static/js/main.22c52488.chunk.js"
+  ]
+}
